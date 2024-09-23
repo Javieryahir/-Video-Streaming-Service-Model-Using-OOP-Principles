@@ -1,0 +1,134 @@
+{
+    "videos": [
+        {
+            "calificacion": 2,
+            "duracion": 170,
+            "genero": "Drama",
+            "id": 0,
+            "tipoVideo": 1,
+            "titulo": "La Sirenita"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 90,
+            "genero": "Drama",
+            "id": 2,
+            "tipoVideo": 1,
+            "titulo": "Soul"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 90,
+            "genero": "Drama",
+            "id": 3,
+            "tipoVideo": 1,
+            "titulo": "Intensamente"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 90,
+            "genero": "Accion",
+            "id": 3,
+            "tipoVideo": 1,
+            "titulo": "Rapidos y Furiosos 5"
+        },
+        {
+            "calificacion": 2,
+            "duracion": 100,
+            "genero": "Drama",
+            "id": 4,
+            "tipoVideo": 1,
+            "titulo": "Megamente"
+        },
+        {
+            "calificacion": 4,
+            "duracion": 110,
+            "genero": "Drama",
+            "id": 5,
+            "tipoVideo": 2,
+            "titulo": "Los Simpsons"
+        },
+        {
+            "calificacion": 4,
+            "duracion": 110,
+            "genero": "Drama",
+            "id": 6,
+            "tipoVideo": 2,
+            "titulo": "Breaking Bad"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 500,
+            "genero": "Accion",
+            "id": 7,
+            "tipoVideo": 2,
+            "titulo": "Peaky Blinders"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 20,
+            "genero": "Accion",
+            "id": 8,
+            "serie": "Los Simpsons",
+            "temporada": 1,
+            "tipoVideo": 3,
+            "titulo": "El Carro: Capitulo 2"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 22,
+            "genero": "Accion",
+            "id": 9,
+            "serie": "Los Simpsons",
+            "temporada": 1,
+            "tipoVideo": 3,
+            "titulo": "El Aeropuerto: Capitulo 5"
+        },
+        {
+            "calificacion": 3,
+            "duracion": 24,
+            "genero": "Accion",
+            "id": 10,
+            "serie": "Los Simpsons",
+            "temporada": 1,
+            "tipoVideo": 3,
+            "titulo": "El Cielo: Capitulo 6"
+        },
+        {
+            "calificacion": 4,
+            "duracion": 24,
+            "genero": "Drama",
+            "id": 11,
+            "serie": "Los Simpsons",
+            "temporada": 1,
+            "tipoVideo": 3,
+            "titulo": "El poder: Capitulo 8"
+        },
+        {
+            "calificacion": 5,
+            "duracion": 24,
+            "genero": "Drama",
+            "id": 12,
+            "serie": "Los Simpsons",
+            "temporada": 1,
+            "tipoVideo": 3,
+            "titulo": "La peor Respuesta: Capitulo 9"
+        },
+        {
+            "calificacion": 4,
+            "duracion": 160,
+            "genero": "Drama",
+            "id": 26,
+            "tipoVideo": 1,
+            "titulo": "Una Pelicula de Huevos"
+        },
+        {
+            "calificacion": 4,
+            "duracion": 160,
+            "genero": "Drama",
+            "id": 30,
+            "tipoVideo": 2,
+            "titulo": "Sopranos"
+        }
+    ]
+}
